@@ -3,7 +3,7 @@
   "identifier": "org.elglabs.source",
   "subtitle": "Ứng dụng iOS của ELGLabs",
   "description": "Nguồn cài chính thức các ứng dụng iOS của ELGLabs, dùng được với LiveContainer, AltStore và SideStore. File IPA chưa ký — trình cài sẽ tự ký bằng Apple ID của bạn.",
-  "iconURL": "https://raw.githubusercontent.com/ELGLabs/Release/main/assets/Online-DLU/Logo/logo.png",
+  "iconURL": "https://avatars.githubusercontent.com/u/340113634?s=400&u=30048834fc2ecbae911727608e25444529a196df&v=4",
   "website": "https://elglabs.org",
   "tintColor": "FFA552",
   "featuredApps": [
