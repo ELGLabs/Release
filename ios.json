@@ -7,12 +7,12 @@
   "website": "https://elglabs.org",
   "tintColor": "FFA552",
   "featuredApps": [
-    "com.dopaemon.dluonline"
+    "org.elglabs.dluonline"
   ],
   "apps": [
     {
       "name": "Online DLU",
-      "bundleIdentifier": "com.dopaemon.dluonline",
+      "bundleIdentifier": "org.elglabs.dluonline",
       "developerName": "ELGLabs",
       "subtitle": "Lịch học, lịch thi, điểm và bản đồ DLU",
       "localizedDescription": "Ứng dụng KHÔNG CHÍNH THỨC dành cho sinh viên Trường Đại học Đà Lạt, do ELGLabs phát triển độc lập — không thuộc, không được bảo trợ và không đại diện cho nhà trường.\n\nĐăng nhập bằng tài khoản portal của bạn để:\n• Xem thời khoá biểu theo ngày và tháng\n• Theo dõi lịch thi, điểm, GPA và chương trình đào tạo\n• Xem học phần, điểm rèn luyện và hồ sơ sinh viên\n• Theo dõi sự kiện LMS, hạn bài tập và điểm danh\n• Tìm toà nhà, phòng học trên bản đồ 3D khuôn viên, chạy offline\n• Tạo lịch cá nhân, xuất lịch và nhận nhắc giờ học\n\nCó chế độ Dùng thử với dữ liệu mẫu, không cần tài khoản thật.\n\nQuyền riêng tư: mật khẩu và phiên đăng nhập chỉ nằm trong Keychain; dữ liệu học tập lưu trong máy và bị xoá khi đăng xuất; không quảng cáo, không analytics, không tracking. Chính sách: https://privacy.elglabs.org/online-dlu",
