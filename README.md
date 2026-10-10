@@ -10,7 +10,7 @@ IPA phát hành **chưa ký**. Thêm nguồn ELGLabs vào LiveContainer, AltStor
 SideStore để cài và nhận cập nhật; trình cài sẽ tự ký bằng Apple ID của bạn.
 
 ```
-https://raw.githubusercontent.com/ELGLabs/Release/main/ios.json
+https://raw.githubusercontent.com/ELGLabs/Release/refs/heads/main/ios.json
 ```
 
 - **LiveContainer:** Sources → nút **+** → dán link trên.
