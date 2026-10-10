@@ -22,7 +22,7 @@ Không dùng nguồn thì tải thẳng file `.ipa` ở Releases rồi ký bằn
 
 | App | Android | iOS |
 |---|---|---|
-| Online DLU | `OnlineDLU-<tag>.apk` | `OnlineDLU-<tag>.ipa` (có trong `ios.json`) |
+| [Online DLU](https://app.elglabs.org/app/org.elglabs.dluonline) | `OnlineDLU-<tag>.apk` | `OnlineDLU-<tag>.ipa` (có trong `ios.json`) |
 
 Ảnh đại diện và ảnh màn hình của từng app nằm trong `assets/<App>/`.
 
