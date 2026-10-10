@@ -35,6 +35,15 @@
       ],
       "versions": [
         {
+          "version": "1.3.1",
+          "buildVersion": "19",
+          "date": "2026-10-11",
+          "localizedDescription": "• Đổi bundle ID sang org.elglabs.dluonline để dùng định danh ứng dụng của ELGLabs.\n• Tách kênh cập nhật cho bản cài từ GitHub và bản phát hành trên cửa hàng.\n• Khôi phục kiểm tra bản cập nhật GitHub cho các bản cài ngoài cửa hàng.",
+          "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.3.1/OnlineDLU-v1.3.1.ipa",
+          "size": 12921514,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.3.0",
           "buildVersion": "18",
           "date": "2026-10-10",
@@ -51,11 +60,11 @@
           "NSLocationWhenInUseUsageDescription": "Dùng vị trí khi mở bản đồ để hiển thị bạn trong khuôn viên DLU và chỉ đường."
         }
       },
-      "version": "1.3.0",
-      "versionDate": "2026-10-10",
-      "versionDescription": "• Thêm tab Bản đồ: bản đồ 3D khuôn viên DLU chạy offline ngay trong app, tìm toà nhà, xem đường đi và định vị khi đang ở trong trường.\n• Bản đồ đánh dấu các lớp học hôm nay ngay trên toà nhà; chọn toà từ ô tìm kiếm thì camera bay tới mượt, nhấn giữ không còn bôi đen chữ.\n• Thêm chế độ Dùng thử với dữ liệu mẫu, xem trọn app mà không cần tài khoản portal.\n• Màn đăng nhập nói rõ app không chính thức và mật khẩu được dùng thế nào trước khi bạn gõ.\n• Thêm màn Giới thiệu: phiên bản, có gì mới, liên hệ hỗ trợ, quyền riêng tư và giấy phép mã nguồn mở. Online DLU là một sản phẩm của ELGLabs.\n• Góp ý & báo lỗi ngay trong app, tự chọn có gửi kèm nhật ký kỹ thuật hay không.\n• Âm thanh thông báo riêng, nhẹ nhàng hơn; tiêu đề thông báo gọn lại.\n• Nhắc hạn bài tập LMS vừa được giao, không còn dồn báo cả danh sách một lượt.\n• Điểm: nút Thử GPA nằm ngay cạnh nút chọn học kỳ.\n• Đã xem thông báo ở một màn thì chuông ở mọi màn khác cũng hết báo.\n• Thanh điều hướng không còn gãy chữ khi máy để cỡ chữ hay độ phân giải lớn; ô lịch tháng không tràn; Trang chủ ít nội dung vẫn nằm sát đầu trang.\n• Có gì mới đọc từ dữ liệu đi kèm app, xem được cả khi không có mạng.\n• Phiên đăng nhập cất trong kho bảo mật của hệ điều hành; đăng xuất là xoá sạch dữ liệu học tập đã lưu; Android không sao lưu dữ liệu nhạy cảm.\n• Cập nhật ứng dụng hoàn toàn qua Google Play và App Store.\n• Logo và biểu tượng mới, độc lập với huy hiệu chính thức của trường.",
-      "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.3.0/OnlineDLU-v1.3.0.ipa",
-      "size": 12910197
+      "version": "1.3.1",
+      "versionDate": "2026-10-11",
+      "versionDescription": "• Đổi bundle ID sang org.elglabs.dluonline để dùng định danh ứng dụng của ELGLabs.\n• Tách kênh cập nhật cho bản cài từ GitHub và bản phát hành trên cửa hàng.\n• Khôi phục kiểm tra bản cập nhật GitHub cho các bản cài ngoài cửa hàng.",
+      "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.3.1/OnlineDLU-v1.3.1.ipa",
+      "size": 12921514
     }
   ],
   "news": []
