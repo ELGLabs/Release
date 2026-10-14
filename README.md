@@ -28,5 +28,5 @@ https://app.elglabs.org/ios.json
 ## Đóng góp
 
 Online DLU được phát triển bởi ELGLabs với đóng góp của:
-- [@dopaemon](https://github.com/dopaemon)
+- [dopaemon](https://github.com/dopaemon)
 - [0Yaam](https://github.com/0Yaam)
