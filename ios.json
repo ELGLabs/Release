@@ -35,6 +35,15 @@
       ],
       "versions": [
         {
+          "version": "1.4.0",
+          "buildVersion": "20",
+          "date": "2026-10-14",
+          "localizedDescription": "• Tiện ích màn hình chính (Widget): xem nhanh lịch học hôm nay và ngày mai ngay ngoài màn hình, có chế độ tối.\n• Bản đồ 3D dẫn đường: định vị GPS, la bàn xoay mượt, chỉ đường từ vị trí hiện tại hoặc cổng trường gần nhất tới phòng học.\n• Tự động dừng chỉ đường và báo khi bạn đã đến toà nhà lớp học.\n• Bản đồ tự chọn mức đồ hoạ phù hợp cấu hình máy để luôn mượt; nhãn cổng trường và tên phòng to rõ hơn, mũi tên chỉ hướng bù đúng góc xoay của máy.\n• Mục Học phí mới: tra cứu chi tiết học phí theo từng năm học và học kỳ.\n• Tín chỉ tích luỹ: thẻ theo dõi tiến độ học tập, tính chuẩn xác tín chỉ bắt buộc và tự chọn; nhãn chương trình đào tạo chỉ tính phần bắt buộc.\n• Ghim lịch thi quan trọng lên đầu Trang chủ để không bỏ lỡ ca thi.\n• Nạp trước dữ liệu theo thói quen sử dụng, app mở nhanh và tiết kiệm pin hơn.\n• Tuỳ biến thứ tự các mục tiện ích trên Trang chủ và Hồ sơ.\n• Thẻ sinh viên mở sẵn ngay khi vào, và chọn được cổng vào khi bạn đang ở ngoài trường.\n• LMS tiện lợi hơn: xem chi tiết bài tập và sự kiện ngay trong app, đăng nhập chỉ cần mật khẩu, mở tài liệu giữ nguyên phiên.\n• Nhắc lịch học đáng tin hơn: app nhận ra thông báo bị tắt, mở thẳng đúng trang cài đặt để bật lại, có nút gửi thử; hỏi quyền thông báo ngay lúc bạn bật nhắc LMS.\n• Widget báo rõ \"chưa đồng bộ\" khi chưa có dữ liệu, thay vì hiện khung trống.\n• Sửa nút quay lại bị kẹt ở các tab gốc sau khi đóng một trang con; màn Cài đặt cuộn mượt, không còn nhảy chiều cao.\n• Bỏ liên kết thanh toán học phí không còn dùng được.\n\nWidget cần quyền App Group group.org.elglabs.dluonline. Tự ký bằng Apple ID miễn phí thì quyền này bị gỡ và widget sẽ báo \"Chưa đồng bộ\" dù app đã có lịch; ký bằng tài khoản Apple Developer trả phí (bật App Groups) thì widget nhận dữ liệu bình thường.",
+          "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.4.0/OnlineDLU-v1.4.0.ipa",
+          "size": 13167992,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.3.1",
           "buildVersion": "19",
           "date": "2026-10-11",
@@ -54,17 +63,19 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "group.org.elglabs.dluonline"
+        ],
         "privacy": {
           "NSFaceIDUsageDescription": "Dùng Face ID để mở khoá ứng dụng.",
           "NSLocationWhenInUseUsageDescription": "Dùng vị trí khi mở bản đồ để hiển thị bạn trong khuôn viên DLU và chỉ đường."
         }
       },
-      "version": "1.3.1",
-      "versionDate": "2026-10-11",
-      "versionDescription": "• Đổi bundle ID sang org.elglabs.dluonline để dùng định danh ứng dụng của ELGLabs.\n• Tách kênh cập nhật cho bản cài từ GitHub và bản phát hành trên cửa hàng.\n• Khôi phục kiểm tra bản cập nhật GitHub cho các bản cài ngoài cửa hàng.",
-      "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.3.1/OnlineDLU-v1.3.1.ipa",
-      "size": 12921514
+      "version": "1.4.0",
+      "versionDate": "2026-10-14",
+      "versionDescription": "• Tiện ích màn hình chính (Widget): xem nhanh lịch học hôm nay và ngày mai ngay ngoài màn hình, có chế độ tối.\n• Bản đồ 3D dẫn đường: định vị GPS, la bàn xoay mượt, chỉ đường từ vị trí hiện tại hoặc cổng trường gần nhất tới phòng học.\n• Tự động dừng chỉ đường và báo khi bạn đã đến toà nhà lớp học.\n• Bản đồ tự chọn mức đồ hoạ phù hợp cấu hình máy để luôn mượt; nhãn cổng trường và tên phòng to rõ hơn, mũi tên chỉ hướng bù đúng góc xoay của máy.\n• Mục Học phí mới: tra cứu chi tiết học phí theo từng năm học và học kỳ.\n• Tín chỉ tích luỹ: thẻ theo dõi tiến độ học tập, tính chuẩn xác tín chỉ bắt buộc và tự chọn; nhãn chương trình đào tạo chỉ tính phần bắt buộc.\n• Ghim lịch thi quan trọng lên đầu Trang chủ để không bỏ lỡ ca thi.\n• Nạp trước dữ liệu theo thói quen sử dụng, app mở nhanh và tiết kiệm pin hơn.\n• Tuỳ biến thứ tự các mục tiện ích trên Trang chủ và Hồ sơ.\n• Thẻ sinh viên mở sẵn ngay khi vào, và chọn được cổng vào khi bạn đang ở ngoài trường.\n• LMS tiện lợi hơn: xem chi tiết bài tập và sự kiện ngay trong app, đăng nhập chỉ cần mật khẩu, mở tài liệu giữ nguyên phiên.\n• Nhắc lịch học đáng tin hơn: app nhận ra thông báo bị tắt, mở thẳng đúng trang cài đặt để bật lại, có nút gửi thử; hỏi quyền thông báo ngay lúc bạn bật nhắc LMS.\n• Widget báo rõ \"chưa đồng bộ\" khi chưa có dữ liệu, thay vì hiện khung trống.\n• Sửa nút quay lại bị kẹt ở các tab gốc sau khi đóng một trang con; màn Cài đặt cuộn mượt, không còn nhảy chiều cao.\n• Bỏ liên kết thanh toán học phí không còn dùng được.\n\nWidget cần quyền App Group group.org.elglabs.dluonline. Tự ký bằng Apple ID miễn phí thì quyền này bị gỡ và widget sẽ báo \"Chưa đồng bộ\" dù app đã có lịch; ký bằng tài khoản Apple Developer trả phí (bật App Groups) thì widget nhận dữ liệu bình thường.",
+      "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.4.0/OnlineDLU-v1.4.0.ipa",
+      "size": 13167992
     }
   ],
   "news": []

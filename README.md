@@ -24,4 +24,6 @@ GitHub cung cấp mã SHA-256 cho từng tệp phát hành để kiểm tra tín
 
 ## Đóng góp
 
-Online DLU được phát triển bởi [ELGLabs](https://github.com/ELGLabs), với sự đóng góp của [@dopaemon](https://github.com/dopaemon).
+Online DLU được phát triển bởi ELGLabs với đóng góp của:
+- [dopaemon](https://github.com/dopaemon)
+- [0Yaam](https://github.com/0Yaam)
