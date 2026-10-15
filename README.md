@@ -4,26 +4,23 @@ Kho phát hành chính thức các ứng dụng của ELGLabs. Chỉ tải tệp
 
 ## Online DLU
 
-Ứng dụng hỗ trợ sinh viên Đại học Đà Lạt theo dõi lịch học, lịch thi, điểm, LMS và các tiện ích học tập.
+Ứng dụng hỗ trợ sinh viên Đại học Đà Lạt theo dõi lịch học, LMS, điểm, lịch thi và bản đồ khuôn viên.
 
-- [Tải bản mới nhất](https://github.com/ELGLabs/Release/releases/latest)
-- [Trang ứng dụng](https://app.elglabs.org/app/org.elglabs.dluonline)
-- Android: `OnlineDLU-<tag>.apk`
-- iOS: `OnlineDLU-<tag>.ipa`
+- [Tải phiên bản mới nhất](https://github.com/ELGLabs/Release/releases/latest)
+- [Xem trang ứng dụng](https://app.elglabs.org/app/org.elglabs.dluonline)
 
-## Cài đặt iOS
+### Tệp cài đặt
 
-Tệp IPA chưa ký, dùng với LiveContainer, AltStore, SideStore hoặc Sideloadly. Nguồn cập nhật:
+- Android 7 trở lên: `OnlineDLU-<tag>.apk`
+- iOS 15 trở lên: `OnlineDLU-<tag>.ipa`
+
+IPA cần được ký bằng Apple ID và có thể cài qua AltStore, SideStore, Sideloadly hoặc LiveContainer. Nguồn dành cho AltStore/SideStore:
 
 ```text
 https://app.elglabs.org/ios.json
 ```
 
-## Quy ước phát hành
-
-- APK dành cho Android 7 trở lên.
-- IPA dành cho iOS 15 trở lên và cần được ký bằng Apple ID của người dùng.
-- GitHub hiển thị mã SHA-256 cho từng tệp để kiểm tra tính toàn vẹn.
+GitHub cung cấp mã SHA-256 cho từng tệp phát hành để kiểm tra tính toàn vẹn.
 
 ## Đóng góp
 
