@@ -35,6 +35,15 @@
       ],
       "versions": [
         {
+          "version": "1.5.1",
+          "buildVersion": "22",
+          "date": "2026-11-08",
+          "localizedDescription": "• Dữ liệu app chạy hoàn toàn offline: mở app là có số ngay từ bộ nhớ máy, dữ liệu cũ thì tự lấy mới và cập nhật ngay trên màn hình đang mở.\n• Thêm tuỳ chọn khoảng lấy dữ liệu 3/6/9 tiếng trong Cài đặt; chỉ quá 24 tiếng chưa làm mới mới cảnh báo dữ liệu cũ.\n• Màn hình chờ lúc mở app, hiện số mục dữ liệu đã sẵn sàng thay vì vào thẳng app với thẻ trống.\n• Nhắc gắn widget lịch ra màn hình chính nếu máy chưa có cái nào (Android).\n• Giao diện Low Neobrutalism thành mặc định; chấm lịch đổi màu cho dễ phân biệt buổi học, lịch tự đặt, trùng giờ và ca thi.\n• Chip Dữ liệu ở Trang chủ và hộp thoại trạng thái dùng cùng một nguồn, không còn báo đỏ trong khi bên trong xanh hết.\n• Mục Ngôn ngữ và Khoảng lấy dữ liệu trong Cài đặt dùng bảng chọn thống nhất với các mục khác.\n\nWidget cần quyền App Group group.org.elglabs.dluonline. Tự ký bằng Apple ID miễn phí thì quyền này bị gỡ và widget sẽ báo \"Chưa đồng bộ\" dù app đã có lịch; ký bằng tài khoản Apple Developer trả phí (bật App Groups) thì widget nhận dữ liệu bình thường.",
+          "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.5.1/OnlineDLU-v1.5.1.ipa",
+          "size": 13902046,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.5.0",
           "date": "2026-10-30",
           "localizedDescription": "• Tùy chọn kiểu giao diện lịch thanh vạch tối giản kèm chế độ xem trước trực quan.\n• Màn hình chào mừng (Onboarding) và chế độ Khách tham quan khám phá bản đồ 3D 26 toà nhà không cần đăng nhập.\n• Tách riêng menu Tùy chỉnh giao diện trong Cài đặt: chọn phong cách (Neubrutalism hoặc Tối giản) và chế độ sáng/tối linh hoạt.\n• Nạp tức thì dữ liệu đã lưu từ bộ nhớ khi mở màn hình, không còn chớp khung xương; chip trạng thái hiển thị rõ thời gian đồng bộ.\n• Gắn lịch thi trực tiếp vào lịch học tuần, tự động nhận diện ca thi đổi giờ/phòng và lưu giữ lịch sử thi tích luỹ.\n• Hỗ trợ song ngữ Tiếng Việt - English; chặn tạo lịch riêng ở thời gian quá khứ; ẩn thẻ gợi ý LMS khi đã kết nối.\n• Bổ sung Điều khoản sử dụng và thông báo bảo vệ dữ liệu sinh viên trước khi đăng nhập.\n• Cải thiện độ ổn định của widget màn hình chính và thông báo nhắc giờ học trên Android và iOS.\n• Bản đồ 3D: chỉ đường đi bộ tự nhiên hơn, tự động chuyển góc nhìn toàn cảnh khuôn viên khi đứng ngoài trường.\n• Cập nhật logo chính thức của Trường Đại học Đà Lạt.\n\nWidget cần quyền App Group group.org.elglabs.dluonline. Tự ký bằng Apple ID miễn phí thì quyền này bị gỡ và widget sẽ báo \"Chưa đồng bộ\" dù app đã có lịch; ký bằng tài khoản Apple Developer trả phí (bật App Groups) thì widget nhận dữ liệu bình thường.",
@@ -79,11 +88,11 @@
           "NSLocationWhenInUseUsageDescription": "Dùng vị trí khi mở bản đồ để hiển thị bạn trong khuôn viên DLU và chỉ đường."
         }
       },
-      "version": "1.5.0",
-      "versionDate": "2026-10-30",
-      "versionDescription": "• Tùy chọn kiểu giao diện lịch thanh vạch tối giản kèm chế độ xem trước trực quan.\n• Màn hình chào mừng (Onboarding) và chế độ Khách tham quan khám phá bản đồ 3D 26 toà nhà không cần đăng nhập.\n• Tách riêng menu Tùy chỉnh giao diện trong Cài đặt: chọn phong cách (Neubrutalism hoặc Tối giản) và chế độ sáng/tối linh hoạt.\n• Nạp tức thì dữ liệu đã lưu từ bộ nhớ khi mở màn hình, không còn chớp khung xương; chip trạng thái hiển thị rõ thời gian đồng bộ.\n• Gắn lịch thi trực tiếp vào lịch học tuần, tự động nhận diện ca thi đổi giờ/phòng và lưu giữ lịch sử thi tích luỹ.\n• Hỗ trợ song ngữ Tiếng Việt - English; chặn tạo lịch riêng ở thời gian quá khứ; ẩn thẻ gợi ý LMS khi đã kết nối.\n• Bổ sung Điều khoản sử dụng và thông báo bảo vệ dữ liệu sinh viên trước khi đăng nhập.\n• Cải thiện độ ổn định của widget màn hình chính và thông báo nhắc giờ học trên Android và iOS.\n• Bản đồ 3D: chỉ đường đi bộ tự nhiên hơn, tự động chuyển góc nhìn toàn cảnh khuôn viên khi đứng ngoài trường.\n• Cập nhật logo chính thức của Trường Đại học Đà Lạt.\n\nWidget cần quyền App Group group.org.elglabs.dluonline. Tự ký bằng Apple ID miễn phí thì quyền này bị gỡ và widget sẽ báo \"Chưa đồng bộ\" dù app đã có lịch; ký bằng tài khoản Apple Developer trả phí (bật App Groups) thì widget nhận dữ liệu bình thường.",
-      "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.5.0/OnlineDLU-v1.5.0.ipa",
-      "size": 13883101
+      "version": "1.5.1",
+      "versionDate": "2026-11-08",
+      "versionDescription": "• Dữ liệu app chạy hoàn toàn offline: mở app là có số ngay từ bộ nhớ máy, dữ liệu cũ thì tự lấy mới và cập nhật ngay trên màn hình đang mở.\n• Thêm tuỳ chọn khoảng lấy dữ liệu 3/6/9 tiếng trong Cài đặt; chỉ quá 24 tiếng chưa làm mới mới cảnh báo dữ liệu cũ.\n• Màn hình chờ lúc mở app, hiện số mục dữ liệu đã sẵn sàng thay vì vào thẳng app với thẻ trống.\n• Nhắc gắn widget lịch ra màn hình chính nếu máy chưa có cái nào (Android).\n• Giao diện Low Neobrutalism thành mặc định; chấm lịch đổi màu cho dễ phân biệt buổi học, lịch tự đặt, trùng giờ và ca thi.\n• Chip Dữ liệu ở Trang chủ và hộp thoại trạng thái dùng cùng một nguồn, không còn báo đỏ trong khi bên trong xanh hết.\n• Mục Ngôn ngữ và Khoảng lấy dữ liệu trong Cài đặt dùng bảng chọn thống nhất với các mục khác.\n\nWidget cần quyền App Group group.org.elglabs.dluonline. Tự ký bằng Apple ID miễn phí thì quyền này bị gỡ và widget sẽ báo \"Chưa đồng bộ\" dù app đã có lịch; ký bằng tài khoản Apple Developer trả phí (bật App Groups) thì widget nhận dữ liệu bình thường.",
+      "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.5.1/OnlineDLU-v1.5.1.ipa",
+      "size": 13902046
     }
   ],
   "news": []
