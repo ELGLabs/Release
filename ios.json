@@ -38,6 +38,15 @@
       ],
       "versions": [
         {
+          "version": "1.5.2",
+          "buildVersion": "23",
+          "date": "2026-11-14",
+          "localizedDescription": "• Chip đếm ngược nhịp LMS cạnh chip Dữ liệu trên Trang chủ, và nút Làm mới LMS ngay trong hộp thư.\n• Chấm lịch thi đổi sang đỏ tươi cho dễ thấy trong lưới lịch.\n• Mở lịch từ widget tới ngày của tiết kế tiếp không còn hiện đếm ngược sai như thể ngày đó là hôm nay.\n• Portal trả về một dòng dữ liệu lỗi không còn làm trắng cả màn Lịch, Thi hay Điểm; tân sinh viên chưa có điểm mở màn Điểm không còn bị sập.\n\nWidget cần quyền App Group group.org.elglabs.dluonline. Tự ký bằng Apple ID miễn phí thì quyền này bị gỡ và widget sẽ báo \"Chưa đồng bộ\" dù app đã có lịch; ký bằng tài khoản Apple Developer trả phí (bật App Groups) thì widget nhận dữ liệu bình thường.",
+          "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.5.2/OnlineDLU-v1.5.2.ipa",
+          "size": 13904014,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.5.1",
           "buildVersion": "22",
           "date": "2026-11-08",
@@ -91,11 +100,11 @@
           "NSLocationWhenInUseUsageDescription": "Dùng vị trí khi mở bản đồ để hiển thị bạn trong khuôn viên DLU và chỉ đường."
         }
       },
-      "version": "1.5.1",
-      "versionDate": "2026-11-08",
-      "versionDescription": "• Dữ liệu app chạy hoàn toàn offline: mở app là có số ngay từ bộ nhớ máy, dữ liệu cũ thì tự lấy mới và cập nhật ngay trên màn hình đang mở.\n• Thêm tuỳ chọn khoảng lấy dữ liệu 3/6/9 tiếng trong Cài đặt; chỉ quá 24 tiếng chưa làm mới mới cảnh báo dữ liệu cũ.\n• Màn hình chờ lúc mở app, hiện số mục dữ liệu đã sẵn sàng thay vì vào thẳng app với thẻ trống.\n• Nhắc gắn widget lịch ra màn hình chính nếu máy chưa có cái nào (Android).\n• Giao diện Low Neobrutalism thành mặc định; chấm lịch đổi màu cho dễ phân biệt buổi học, lịch tự đặt, trùng giờ và ca thi.\n• Chip Dữ liệu ở Trang chủ và hộp thoại trạng thái dùng cùng một nguồn, không còn báo đỏ trong khi bên trong xanh hết.\n• Mục Ngôn ngữ và Khoảng lấy dữ liệu trong Cài đặt dùng bảng chọn thống nhất với các mục khác.\n\nWidget cần quyền App Group group.org.elglabs.dluonline. Tự ký bằng Apple ID miễn phí thì quyền này bị gỡ và widget sẽ báo \"Chưa đồng bộ\" dù app đã có lịch; ký bằng tài khoản Apple Developer trả phí (bật App Groups) thì widget nhận dữ liệu bình thường.",
-      "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.5.1/OnlineDLU-v1.5.1.ipa",
-      "size": 13902046
+      "version": "1.5.2",
+      "versionDate": "2026-11-14",
+      "versionDescription": "• Chip đếm ngược nhịp LMS cạnh chip Dữ liệu trên Trang chủ, và nút Làm mới LMS ngay trong hộp thư.\n• Chấm lịch thi đổi sang đỏ tươi cho dễ thấy trong lưới lịch.\n• Mở lịch từ widget tới ngày của tiết kế tiếp không còn hiện đếm ngược sai như thể ngày đó là hôm nay.\n• Portal trả về một dòng dữ liệu lỗi không còn làm trắng cả màn Lịch, Thi hay Điểm; tân sinh viên chưa có điểm mở màn Điểm không còn bị sập.\n\nWidget cần quyền App Group group.org.elglabs.dluonline. Tự ký bằng Apple ID miễn phí thì quyền này bị gỡ và widget sẽ báo \"Chưa đồng bộ\" dù app đã có lịch; ký bằng tài khoản Apple Developer trả phí (bật App Groups) thì widget nhận dữ liệu bình thường.",
+      "downloadURL": "https://github.com/ELGLabs/Release/releases/download/OnlineDLU-v1.5.2/OnlineDLU-v1.5.2.ipa",
+      "size": 13904014
     }
   ],
   "news": []
